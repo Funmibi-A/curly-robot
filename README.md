@@ -7,4 +7,6 @@ Create a utilities folder with two separate files and distribute the functions t
 Import the functions into the main index and use two different methods for calling those functions.
 Then call the functions using arrays of your choice and log the result to the console. Make sure to run your index.js file to make certain that all of your modules work.
 
+Already done.
+
 
